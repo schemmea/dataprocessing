@@ -1,0 +1,14 @@
+nextflow.exception.AbortRunException;true;1;out1695025856806.nf;
+nextflow.exception.ScriptCompilationException;true;1;out1695026075558.nf;
+nextflow.exception.ScriptCompilationException;true;2;out1695026134703.nf;
+nextflow.exception.ScriptCompilationException;true;3;out1695026317527.nf;
+nextflow.exception.ScriptCompilationException;true;4;out1695026517176.nf;
+nextflow.exception.ScriptCompilationException;true;5;out1695026742842.nf;
+nextflow.exception.ScriptCompilationException;true;6;out1695026804908.nf;
+nextflow.exception.ScriptCompilationException;true;7;out1695027450765.nf;
+nextflow.exception.ScriptCompilationException;true;8;out1695027495912.nf;
+nextflow.exception.ScriptCompilationException;true;9;out1695027702366.nf;
+nextflow.exception.ScriptCompilationException;true;10;out1695027788433.nf;
+nextflow.exception.ScriptCompilationException;true;11;out1695027971635.nf;
+nextflow.exception.ScriptCompilationException;true;12;out1695028080672.nf;
+nextflow.exception.AbortRunException;false;2;out1695028116209.nf;
